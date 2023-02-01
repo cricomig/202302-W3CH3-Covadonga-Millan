@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/object-curly-spacing */
+/* eslint-disable @typescript-eslint/indent */
 export abstract class Component {
   selector!: string;
   element!: HTMLElement;

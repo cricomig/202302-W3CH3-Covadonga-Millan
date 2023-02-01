@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/object-curly-spacing */
+/* eslint-disable @typescript-eslint/indent */
 import { PetStructure } from '../../models/pet';
 import { Component } from '../component/component';
 import './pet-item.scss';

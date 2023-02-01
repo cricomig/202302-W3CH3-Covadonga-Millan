@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/object-curly-spacing */
+/* eslint-disable @typescript-eslint/indent */
 import { Component } from '../component/component';
 import './header.scss';
 
