@@ -16,7 +16,7 @@ export class Pets extends Component {
       .map(
         (item) => `
         <li class="item">
-          <img src="../../../public/${item.name.toLowerCase}.jpeg" alt="">
+          <img src="../../../${item.name}.jpeg" alt="">
           <div>Id. ${item.id}</div>
           <div title="${item.id}">Name: ${item.name}</div>
           <div>Breed: ${item.breed}</div>
